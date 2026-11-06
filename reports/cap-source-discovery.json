@@ -1,0 +1,97 @@
+{
+  "retrieved_on": "2026-11-06",
+  "sources": [
+    {
+      "city": "Bologna",
+      "provider": "Zornade",
+      "page": "https://zornade.com/mappa-cap/bologna/",
+      "url": "https://wupqwfqjfpwrapgnogjv.supabase.co/storage/v1/object/public/parcel-data-access/cap/citta/bologna.geojson",
+      "file": "data/cap/source/zornade/bologna.geojson",
+      "sha256": "5b3bdcb2e17afe194ce6991174b4d64db31cacbb40e8efa19869f4982ca8aef2",
+      "bytes": 426950,
+      "license": "CC-BY-4.0",
+      "page_sha256": "b54047b1e73478de4ee2c798692291585c5a94055162229b777ab134292abfb7",
+      "retrieved_at": "2026-11-06T13:30:44.847426+00:00",
+      "features": 19
+    },
+    {
+      "city": "Bologna",
+      "provider": "Comune di Bologna SIT",
+      "page": "https://opendata.comune.bologna.it/explore/dataset/codici-avviamento-postale-cap/",
+      "url": "https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/codici-avviamento-postale-cap/exports/geojson",
+      "file": "data/cap/source/comune-bologna/bologna.geojson",
+      "sha256": "f04d792565faf62b91983bd982d1568487c6d5fa483b11bfcda41dc9e1b70023",
+      "bytes": 503195,
+      "license": "CC-BY-4.0",
+      "features": 19,
+      "source_modified": "2020-12-01T09:11:58+00:00",
+      "license_verified_via": "https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/codici-avviamento-postale-cap"
+    },
+    {
+      "city": "Brescia",
+      "provider": "Zornade",
+      "page": "https://zornade.com/mappa-cap/brescia/",
+      "url": "https://wupqwfqjfpwrapgnogjv.supabase.co/storage/v1/object/public/parcel-data-access/cap/citta/brescia.geojson",
+      "file": "data/cap/source/zornade/brescia.geojson",
+      "sha256": "e09536f19828c29013d2e7944f05501ec04e3296d4733e19882bbbd20013607a",
+      "bytes": 3625300,
+      "license": "CC-BY-4.0",
+      "page_sha256": "d39f3fecaf253774bdfda4c6f753554b7329321276095a4659ed0576336a2470",
+      "retrieved_at": "2026-11-06T13:30:50.656394+00:00",
+      "features": 15
+    },
+    {
+      "city": "Milano",
+      "provider": "Zornade",
+      "page": "https://zornade.com/mappa-cap/milano/",
+      "url": "https://wupqwfqjfpwrapgnogjv.supabase.co/storage/v1/object/public/parcel-data-access/cap/citta/milano.geojson",
+      "file": "data/cap/source/zornade/milano.geojson",
+      "sha256": "000a590b0e73398cb24ef2294507db6de46801fc69a5d09cec7e8b82c7e6a8d9",
+      "bytes": 8733498,
+      "license": "CC-BY-4.0",
+      "page_sha256": "3b14cf96fc6c6e70c3dee341428ccee00b87dbfe4461f6f3f669f4d85184d6ef",
+      "retrieved_at": "2026-11-06T13:30:58.324216+00:00",
+      "features": 38
+    },
+    {
+      "city": "Roma",
+      "provider": "Zornade",
+      "page": "https://zornade.com/mappa-cap/roma/",
+      "url": "https://wupqwfqjfpwrapgnogjv.supabase.co/storage/v1/object/public/parcel-data-access/cap/citta/roma.geojson",
+      "file": "data/cap/source/zornade/roma.geojson",
+      "sha256": "0c36e7675434de250f581828ef4d9af8dd7b666539ffc81ad0604ba00fd73c84",
+      "bytes": 1091689,
+      "license": "CC-BY-4.0",
+      "page_sha256": "72943fa051215abac31855e42c20dbb53852d67bdc9b918453fa31724629e51a",
+      "retrieved_at": "2026-11-06T13:31:07.687075+00:00",
+      "features": 72
+    },
+    {
+      "city": "Napoli",
+      "provider": "Zornade",
+      "page": "https://zornade.com/mappa-cap/napoli/",
+      "url": "https://wupqwfqjfpwrapgnogjv.supabase.co/storage/v1/object/public/parcel-data-access/cap/citta/napoli.geojson",
+      "file": "data/cap/source/zornade/napoli.geojson",
+      "sha256": "e34c5564626f4c015d654d5efdca945dc199329e050842e53bb22cf6b8dfa59d",
+      "bytes": 5773470,
+      "license": "CC-BY-4.0",
+      "page_sha256": "9181687472938a9f7aa9cd7d1c02b40e8163d910459a9ac23a5ba9726ec26853",
+      "retrieved_at": "2026-11-06T13:31:15.317986+00:00",
+      "features": 25
+    },
+    {
+      "city": "Torino",
+      "provider": "Zornade",
+      "page": "https://zornade.com/mappa-cap/torino/",
+      "url": "https://wupqwfqjfpwrapgnogjv.supabase.co/storage/v1/object/public/parcel-data-access/cap/citta/torino.geojson",
+      "file": "data/cap/source/zornade/torino.geojson",
+      "sha256": "dfee7456e33a062ec51821632263ec8a3113c045fb28b62f9076fe00b92905c5",
+      "bytes": 5012417,
+      "license": "CC-BY-4.0",
+      "page_sha256": "c774c5af6acf84dcd15bb3c4d796894166bc3d2ac5702965e8e4c26cd8e2d6d2",
+      "retrieved_at": "2026-11-06T13:31:23.567543+00:00",
+      "features": 33
+    }
+  ],
+  "selection": "Municipal Bologna preferred; direct Zornade for other cities. Zornade Bologna retained as alternate. Publisher accuracy claims not independently verified."
+}
